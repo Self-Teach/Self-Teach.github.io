@@ -1,17 +1,3 @@
-<table>
-    <tr>
-        <td>
-        <center>
-        <img src="./ReadmePictures/test01.jpg" />
-        </center>
-        <center>
-        图1 test picture
-        </center>
-        </td> 
-    <tr>
-</table>
-
-
 
 # Python Learning
 > 1. 环境配置： [Jupyter](1-jupyter-set.md)，[PyCharm](2-pycharm-install.md)，[Others](3-others.md)
@@ -31,3 +17,18 @@
 #
 #
 # Tea
+
+
+
+<table>
+    <tr>
+        <td>
+        <center>
+        <img src="./ReadmePictures/test01.jpg" />
+        </center>
+        <center>
+        图1 test picture
+        </center>
+        </td> 
+    <tr>
+</table>
