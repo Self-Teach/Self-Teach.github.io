@@ -1,9 +1,11 @@
 
 # Python Learning
-> 1. 环境配置： [Jupyter](1-jupyter-set.md)，[PyCharm](2-pycharm-install.md)，[Others](3-others.md)
-> 2. Python基础知识：[知识体系](4-PythonBasicLearnKonwledge.md)，[网络爬虫](5-spider-learn.md)，[机器学习](6-machine-learn.md)
-> 3. 相关教程：[Ubuntu配置]()，
-> 4. 辅助网址：[Re可视化]()，
+1. 环境配置： [Jupyter](1-jupyter-set.md)，[PyCharm](2-pycharm-install.md)，[Others](3-others.md)
+2. Python基础知识：[知识体系](4-PythonBasicLearnKonwledge.md)，[网络爬虫](5-spider-learn.md)，[机器学习](6-machine-learn.md)
+3. 相关教程：[Ubuntu配置]()，
+4. 辅助网址：
+    1. [re可视化](https://regexper.com/)：该网站可**图形化**显示 re 的内在逻辑层次。
+    2. [re测试](https://regex101.com/)：该网站用于测试所写的 re 语句是否正确。
 #
 #
 # Investment
