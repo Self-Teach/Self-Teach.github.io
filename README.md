@@ -22,10 +22,17 @@
 > 1. [Principles](./Books/Principles_By_RayDalio.md) By Ray Dalio
 #
 #
-# Tea
+# Life
+1. Tea
+2. Exercise
+    > 1. running
+    > 2. Biking
+    > 3. Badminton
+3. Movies and Music
+#
 
 
-
+图片居中插入方法：
 <table>
     <tr>
         <td>
