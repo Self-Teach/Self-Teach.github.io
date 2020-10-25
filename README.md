@@ -20,6 +20,7 @@
 #
 # ReadingBooks
 > 1. [Principles](./Books/Principles_By_RayDalio.md) By Ray Dalio
+> 2. [好好学习](./Books/StudyWell_by_chengJia.md)成甲所著的个人知识管理精进指南
 #
 #
 # Life
