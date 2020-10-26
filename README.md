@@ -19,7 +19,7 @@
 #
 #
 # ReadingBooks
-> 1. [Principles](./Books/Principles_By_RayDalio.md) By Ray Dalio
+> 1. [Principles](./Books/Principles_By_RayDalio.md) By Ray Dalio（桥水的掌门人 瑞·达里奥 的书籍《原则》）
 > 2. [好好学习](./Books/StudyWell_by_chengJia.md)成甲所著的个人知识管理精进指南
 #
 #
