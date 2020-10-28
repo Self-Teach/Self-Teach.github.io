@@ -28,7 +28,7 @@
     > 3. Badminton
 3. Movies and Music
 
-图片居中插入方法：
+# 图片居中插入方法：
 <table>
     <tr>
         <td>
