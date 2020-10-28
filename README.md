@@ -21,6 +21,7 @@
 # ReadingBooks
 > 1. [Principles](./Books/Principles_By_RayDalio.md) By Ray Dalio（桥水掌门人 瑞·达里奥 的书籍《原则》）
 > 2. [好好学习](./Books/StudyWell_by_chengJia.md)成甲所著的个人知识管理精进指南
+> 3. [穷查理宝典](./Books/Poor_Charlie's_Almanack.md)：查理芒格的智慧箴言录
 #
 #
 # Life
