@@ -1,6 +1,11 @@
 
 # Python Learning
-1. 环境配置： [Jupyter](1-jupyter-set.md)，[PyCharm](2-pycharm-install.md)，[Others](3-others.md)
+1. 环境配置：
+    1. [ConEmu](./Tools/ConEmu.md)：Windows的命令行工具
+    2. [VisualStudioCode](./Tools/VisualStudioCode.md)：支持多语言的程序源代码编辑器
+    3. [Jupyter](1-jupyter-set.md)：
+    4. [PyCharm](2-pycharm-install.md)：
+    5. [Others](3-others.md)
 2. Python基础知识：[Python基础](./Python/PythonBasicKnowledge.md)，[网络爬虫](5-spider-learn.md)，[机器学习](6-machine-learn.md)
 3. 相关教程：[Ubuntu配置]()，
 4. 辅助网址：
