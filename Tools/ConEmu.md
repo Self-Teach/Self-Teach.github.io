@@ -55,7 +55,7 @@
     4. 当需要“打开命令行界面运行 ````xxxx```` 命令”的时候，就是指在上图这个 PowerShell 界面下输入 ```xxxx ↩︎```；
 
 
-    ![](https://raw.githubusercontent.com/Self-Teach/GithubPhotos/main/ConEmu-Admin.png?token=AOOV4KQ7JLAM5VTJBQ4RWIK7UPE4I)
+    ![](https://raw.githubusercontent.com/Self-Teach/GithubPhotos/main/ConEmu-Admin.png?raw=true)
     
     5. 需要以管理员的权限执行一些命令行命令，那么就需要启动 ConEmu 然后打开一个管理员权限的 PowerShell 界面，方法是选右上角的绿色加号然后按下图选择。
 
