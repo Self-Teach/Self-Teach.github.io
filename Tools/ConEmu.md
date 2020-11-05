@@ -40,25 +40,24 @@
     1. 运行 ConEmu，可以看到下面这样的界面；
 
 
-    &emsp;&emsp;<img src="./Pictures/ConEmu.png">
-    
-    2. 单击 ConEmu 左上角的图形按钮，从弹出菜单中选择 Settings，在打开的设置窗口将下图所示的选项改为 {Shells::PowerShell}，点击 Save settings 来保存修改；
+    <img src="./Pictures/ConEmu.png">
+
+    2. 单击 ConEmu 左上角的图形按钮（如上图红框），从弹出菜单中选择 Settings，在打开的设置窗口将下图所示的选项改为 {Shells::PowerShell}，点击 Save settings 来保存修改；
 
 
-    &emsp;&emsp;<img src="./Pictures/ConEmu-Setting.png">
+    <img src="./Pictures/ConEmu-Setting.png">
 
     3. 退出 ConEmu 然后重新运行它，可以进入一个 PowerShell 环境，注意每行开始的提示符变成了 PS；
 
 
-    &emsp;&emsp;<img src="./Pictures/ConEmu-PS.png">
+    <img src="./Pictures/ConEmu-PS.png">
 
     4. 当需要“打开命令行界面运行 ````xxxx```` 命令”的时候，就是指在上图这个 PowerShell 界面下输入 ```xxxx ↩︎```；
 
+
+    <img src="./Pictures/ConEmu-Admin.png">
+    
     5. 需要以管理员的权限执行一些命令行命令，那么就需要启动 ConEmu 然后打开一个管理员权限的 PowerShell 界面，方法是选右上角的绿色加号然后按下图选择。
-
-
-    &emsp;&emsp;<img src="./Pictures/ConEmu-Admin.png">
-
 
     ```
     ↩︎ 代表回车键 Enter
