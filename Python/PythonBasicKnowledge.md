@@ -375,7 +375,7 @@
 
 # Sequence
 21. python中序列结构有：字符串，列表，元组，字典，集合。  
-        <img src="./Pictures/sequence.png">
+![](./sequence.png)
 22. 列表：用于存储任意数目、任意类型的数据集合
     1. 列表的创建方法
         1. ```a = [20, 30, 'ray']```
@@ -758,7 +758,7 @@
         turtle.done() # 程度执行完毕，窗口还在
         # result is the next picture
         ```
-        <img src="./Pictures/turtleResult.png">
+![](./turtleResult.png)
 # Function
 32. 函数简介
     1. 一个程度由一个个任务组成，函数就是代表一个任务或一个功能。
@@ -961,9 +961,9 @@
         '''
         ```
         浅拷贝原理图  
-        <img src="./Pictures/copy.png">  
+        ![](./copy.png)
         深拷贝原理图  
-        <img src="./Pictures/deepCopy.png">
+        ![](./deepCopy.png)
 33. 基本函数
     1. lambda表达式和匿名函数
         ```
@@ -1035,7 +1035,7 @@
             test01*** 4
             '''
             ```
-        <img src="./Pictures/recurrence.png">
+        ![](./recurrence.png)
 
             ```python
             # 阶乘计算
